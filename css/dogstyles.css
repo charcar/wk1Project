@@ -3,7 +3,10 @@ h1 {
   color: #b30086;
   font-weight: bold;
   font-family: monospace;
-  font-size: 25px;
+  font-size: 30px;
+  margin: 12px;
+  border: 5px dotted pink;
+  padding: 5px;
 }
 
 h2 {
@@ -11,17 +14,52 @@ h2 {
   color: #1a75ff;
   font-weight: bold;
   font-family: monospace;
-  font-size: 18px;
+  font-size: 22px;
 }
 
 .entry {
   font-family: monospace;
   color: #009900;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 h3.liner {
   font-family: monospace;
   background-color: #865a2c;
   color: #ffffff;
+  text-align: center;
+}
+
+.column {
+  margin: 0 auto;
+  border: 5px dotted pink;
+  padding: 2px;
+  width: 40%;
+  display:block;
+  text-align: left;
+
+}
+
+.sidebar {
+  width 60px;
+  float: left;
+  background-color: orange;
+  margin-right: 4px;
+  padding: 2px;
+  text-align: left;
+  margin-left: 1px
+
+}
+
+.img {
+  text-align: center;
+  display:block;
+  padding: 2px;
+  margin: 4px;
+
+}
+
+span.odd {
+  font-weight: bolder;
+
 }
