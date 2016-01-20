@@ -1,0 +1,19 @@
+.col-sm-4 {
+  padding: 10px;
+  margin: 1;
+}
+
+.personal {
+  font-family: sans-serif;
+  font-size: 24px;
+  padding: 5px;
+  margin: 5px;
+  width: 60%;
+  margin: 0 auto;
+}
+
+p.bodytxt {
+  font-size: 14px;
+  margin: 0 auto;
+  width: 60%;
+}
