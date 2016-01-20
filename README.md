@@ -1,5 +1,5 @@
 # wk1Project
-Author: Charlie Carter
+<p>Author: Charlie Carter
 Project: Familiarized myself with git, html, css, and Bootstrap.
 Description: In its final interation this will be a fun page where I can showcase my work and talents.
 Program Setup: Simply go to the url http://charcar.github.io.
