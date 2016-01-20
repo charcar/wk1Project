@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+  color: #b30086;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 25px;
+}
+
+h2 {
+  text-align: left
+  color: #1a75ff;
+  font-weight: bold;
+  font-family: monospace;
+  font-size: 18px;
+}
+
+.entry {
+  font-family: monospace;
+  color: #009900;
+  font-size: 12px;
+}
+
+h3.liner {
+  font-family: monospace;
+  background-color: #865a2c;
+  color: #ffffff;
+}
